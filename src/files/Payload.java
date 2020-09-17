@@ -1,5 +1,5 @@
 package files;
-
+//Added as a different user GitB user
 public class Payload {
 	public static String addPlace() {
 		String payload = "{\r\n" + "  \"location\": {\r\n" + "    \"lat\": -38.383494,\r\n"
