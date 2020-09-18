@@ -1,5 +1,5 @@
 package pojo;
-
+//This is a pojo class for adding a new place
 import java.util.List;
 
 public class AddPlace {

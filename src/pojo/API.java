@@ -1,5 +1,5 @@
 package pojo;
-
+//This class api is used to get the coursetitle and price details
 public class API {
 	private String courseTitle;
 	private String price;
